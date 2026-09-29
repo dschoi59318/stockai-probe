@@ -1,0 +1,5 @@
+streamlit==1.64.0
+pandas==2.3.3
+requests==2.34.2
+finance-datareader==0.9.202
+pykrx==1.2.9
